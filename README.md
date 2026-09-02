@@ -19,19 +19,19 @@ High-speed Kick username availability checker with multi-threading support.
 ### 1. المتطلبات
 - Python 3.8+
 - تثبيت الحزم المطلوبة:
-``bash
+```
 pip install -r requirements.txt
-``
+```
 
 ### 2. طريقة التشغيل
 1. تثبيت الحزم المطلوبة:
-   ``bash
+   ```
    pip install -r requirements.txt
-   ``
+   ```
 2. تشغيل الأداة:
-   ``bash
+   ```
    python main.py
-   ``
+   ```
    - سيطلب منك `Enter Username Length :` ادخل الطول
    - سيطلب منك `Threads :` ادخل عدد الثريدات (مثال 3)
 
@@ -48,19 +48,19 @@ pip install -r requirements.txt
 ### 1. Requirements
 - Python 3.8+
 - Install dependencies:
-``bash
+```
 pip install -r requirements.txt
-``
+```
 
 ### 2. Installation & Execution
 1. Install requirements:
-   ``bash
+   ```
    pip install -r requirements.txt
-   ``
+   ```
 2. Run the checker:
-   ``bash
+   ```
    python main.py
-   ``
+   ```
    - Enter `Username Length`
    - Enter `Threads` (e.g. 3)
 
